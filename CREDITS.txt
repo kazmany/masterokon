@@ -16,7 +16,7 @@ Copyright:    Copyright (c) 2007-2008 Autofac Contributors
               http://code.google.com/p/autofac/wiki/Contributing
 License:      MIT
 
-Autofac Contrib
+Autofac Contribu
 -----
 Website:      http://code.google.com/p/autofac/
 Copyright:    Copyright (c) 2007-2008 Autofac Contributors
